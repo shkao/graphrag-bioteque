@@ -1,0 +1,11 @@
+metapath	CLL-mut-GEN-reg-GEN
+datasets	gdsc1000_cfe||dorothea_AB
+reverse_edges	False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+directed_megs	GEN-reg-GEN
+metapath_name   CLL-mut-GEN-reg_-GEN

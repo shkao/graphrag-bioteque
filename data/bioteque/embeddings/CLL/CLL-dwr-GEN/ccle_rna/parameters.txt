@@ -1,0 +1,8 @@
+metapath	CLL-dwr-GEN
+datasets	ccle_rna
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

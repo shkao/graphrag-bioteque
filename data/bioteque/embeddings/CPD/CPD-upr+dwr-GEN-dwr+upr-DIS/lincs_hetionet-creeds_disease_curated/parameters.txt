@@ -1,0 +1,10 @@
+metapath	CPD-upr-GEN-dwr-DIS	CPD-dwr-GEN-upr-DIS
+datasets	lincs_hetionet||creeds_disease_curated	lincs_hetionet||creeds_disease_curated
+reverse_edges	False||True	False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+metapath_name	CPD-upr+dwr-GEN-dwr+upr-DIS

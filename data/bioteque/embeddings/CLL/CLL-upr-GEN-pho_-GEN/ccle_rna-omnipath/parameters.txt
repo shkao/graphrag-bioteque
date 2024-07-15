@@ -1,0 +1,11 @@
+metapath	CLL-upr-GEN-pho-GEN
+datasets	ccle_rna||omnipath
+reverse_edges	False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+directed_megs	GEN-pho-GEN
+metapath_name	CLL-upr-GEN-pho_-GEN

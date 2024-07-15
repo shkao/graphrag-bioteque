@@ -1,0 +1,9 @@
+metapath	CPD-sim-CPD-trt-DIS
+datasets	fp2d_CC||repodb
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

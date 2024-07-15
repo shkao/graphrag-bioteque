@@ -1,0 +1,10 @@
+metapath	CLL-bfn-PGN-pdw-GEN-int-CPD
+datasets	depmap_agreement_ccr||depmap_agreement_ccr||drugbank_pd,pharmacogenomic_targets
+reverse_edges	True||False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+pruning_cutoffs	0.025,3,250

@@ -1,0 +1,9 @@
+datasets	opentargets||reactome
+metapath	DIS-ass-GEN-ass-PWY
+reverse_edges	True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

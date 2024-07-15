@@ -1,0 +1,2 @@
+Input data was obtained by exporting the cell table from https://clue.io/cell-app
+IMPORTANT: You must add the 'Cellosaurus id' column at the end of the dataframe BEFORE exporting the table

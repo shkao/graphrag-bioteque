@@ -1,0 +1,8 @@
+metapath	GEN-ngi-GEN
+datasets	eytan_2018
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

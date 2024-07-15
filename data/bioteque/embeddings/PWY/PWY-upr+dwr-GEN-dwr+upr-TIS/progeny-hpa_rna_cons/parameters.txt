@@ -1,0 +1,10 @@
+metapath	PWY-upr-GEN-dwr-TIS	PWY-dwr-GEN-upr-TIS
+datasets	progeny||hpa_rna_cons	progeny||hpa_rna_cons
+reverse_edges	False||True	False||True
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	PWY-upr+dwr-GEN-dwr+upr-TIS

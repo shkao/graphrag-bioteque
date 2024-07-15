@@ -1,0 +1,10 @@
+metapath	CLL-dwr-GEN-dwr-CLL-gfn-PGN-pdw-GEN	CLL-upr-GEN-upr-CLL-gfn-PGN-pdw-GEN
+datasets	gdsc1000_mrna||gdsc1000_mrna||achilles_HMZ||achilles_HMZ	gdsc1000_mrna||gdsc1000_mrna||achilles_HMZ||achilles_HMZ
+reverse_edges	False||True||True||False	False||True||True||False
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	CLL-dwr+upr-GEN-dwr+upr-CLL-gfn-PGN-pdw-GEN

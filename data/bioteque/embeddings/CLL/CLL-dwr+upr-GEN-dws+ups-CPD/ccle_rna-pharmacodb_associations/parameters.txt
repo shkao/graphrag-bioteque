@@ -1,0 +1,10 @@
+metapath	CLL-dwr-GEN-dws-CPD	CLL-upr-GEN-ups-CPD
+datasets	ccle_rna||pharmacodb_associations	ccle_rna||pharmacodb_associations
+reverse_edges	False||False	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+metapath_name	CLL-dwr+upr-GEN-dws+ups-CPD

@@ -1,0 +1,9 @@
+metapath	CLL-bfn-PGN-pdw-GEN
+datasets	depmap_agreement_ccr||depmap_agreement_ccr
+reverse_edges	True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

@@ -1,0 +1,10 @@
+metapath	GEN-pup-PGN-dwr-GEN-dwr-PGN-pup-GEN	GEN-pup-PGN-upr-GEN-upr-PGN-pup-GEN
+datasets	lincs_oe_hetionet||lincs_oe_hetionet||lincs_oe_hetionet||lincs_oe_hetionet	lincs_oe_hetionet||lincs_oe_hetionet||lincs_oe_hetionet||lincs_oe_hetionet
+reverse_edges	True||False||True||False	True||False||True||False
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	GEN-pup-PGN-dwr+upr-GEN-dwr+upr-PGN-pup-GEN

@@ -1,0 +1,9 @@
+metapath	CLL-mut-GEN-has-CMP
+datasets	ccle_mut||jensencompartmentcurated
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+
+verbose	True

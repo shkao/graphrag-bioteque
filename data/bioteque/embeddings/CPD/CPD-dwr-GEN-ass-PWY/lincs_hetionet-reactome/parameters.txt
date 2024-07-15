@@ -1,0 +1,9 @@
+metapath	CPD-dwr-GEN-ass-PWY
+datasets	lincs_hetionet||reactome
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

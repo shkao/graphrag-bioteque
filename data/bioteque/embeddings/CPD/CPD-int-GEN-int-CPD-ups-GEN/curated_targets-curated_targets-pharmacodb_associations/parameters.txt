@@ -1,0 +1,10 @@
+metapath	CPD-int-GEN-int-CPD-ups-GEN
+datasets	drugbank_pd,pharmacogenomic_targets||drugbank_pd,pharmacogenomic_targets||pharmacodb_associations
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+reverse_edges	False||True||True
+pruning_cutoffs	0.025,3,250

@@ -1,0 +1,10 @@
+metapath	CLL-dwr-GEN-dwr-GEN	CLL-upr-GEN-upr-GEN
+datasets	gdsc1000_mrna||dorothea_AB	gdsc1000_mrna||dorothea_AB
+reverse_edges	False||True	False||True
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	CLL-dwr+upr-GEN-dwr+upr_-GEN

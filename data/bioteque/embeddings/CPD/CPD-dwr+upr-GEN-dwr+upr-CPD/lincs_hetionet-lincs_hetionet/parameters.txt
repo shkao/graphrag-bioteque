@@ -1,0 +1,10 @@
+metapath	CPD-dwr-GEN-dwr-CPD	CPD-upr-GEN-upr-CPD
+datasets	lincs_hetionet||lincs_hetionet	lincs_hetionet||lincs_hetionet
+reverse_edges	False||True	False||True
+metapath_name	CPD-dwr+upr-GEN-dwr+upr-CPD
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

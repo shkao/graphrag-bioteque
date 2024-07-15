@@ -1,0 +1,8 @@
+metapath	CLL-dwr-GEN-int-CPD
+datasets	ccle_rna||drugbank_pd,pharmacogenomic_targets
+reverse_edges	False||True
+nwalks	100
+length	100
+q	1
+p	1
+verbose	True

@@ -1,0 +1,8 @@
+metapath	CLL-ass-PWY
+datasets	cosmic_mutsig
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

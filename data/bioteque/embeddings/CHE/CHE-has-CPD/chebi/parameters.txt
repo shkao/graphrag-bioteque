@@ -1,0 +1,10 @@
+metapath	CHE-has-CPD
+datasets	chebi
+reverse_edges	True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+metapath_name	CHE-has-CPD

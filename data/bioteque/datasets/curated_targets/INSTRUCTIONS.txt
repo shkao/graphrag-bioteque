@@ -1,0 +1,5 @@
+To build this dataset, it is necessary to first run the 'script.py' function of the following three CPD-int-GEN datasets:
+
+--> ../drugbank
+--> ../pharmacogenomic_targets
+--> ../repohub

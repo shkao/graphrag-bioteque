@@ -1,0 +1,8 @@
+metapath	CLL-dwr-GEN
+datasets	gdsc1000_mrna
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

@@ -1,0 +1,8 @@
+metapath	CLL-sns-CPD
+datasets	/aloy/home/afernandez/projects/bioteque/graph/raw_data/CLL-sns-CPD/drugcell.tsv
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

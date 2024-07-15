@@ -1,0 +1,9 @@
+metapath	DIS-dwr-GEN
+datasets	creeds_disease_curated
+reverse_edges	False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

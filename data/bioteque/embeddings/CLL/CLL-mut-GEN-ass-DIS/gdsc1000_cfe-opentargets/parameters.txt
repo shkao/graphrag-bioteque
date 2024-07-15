@@ -1,0 +1,9 @@
+metapath	CLL-mut-GEN-ass-DIS
+datasets	gdsc1000_cfe||opentargets
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

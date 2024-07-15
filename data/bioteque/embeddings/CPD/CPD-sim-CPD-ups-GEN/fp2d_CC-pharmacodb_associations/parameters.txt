@@ -1,0 +1,9 @@
+metapath	CPD-sim-CPD-ups-GEN
+datasets	fp2d_CC||pharmacodb_associations
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+reverse_edges	False||True

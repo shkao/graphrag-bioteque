@@ -1,0 +1,10 @@
+metapath	GEN-pdw-PGN-bfn-CLL-ass-PWY
+datasets	depmap_agreement_ccr||depmap_agreement_ccr||cosmic_mutsig
+reverse_edges	True||False||False
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	GEN-pdw-PGN-bfn-CLL-ass-PWY

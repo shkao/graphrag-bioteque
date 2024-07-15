@@ -1,0 +1,9 @@
+metapath	DIS-ass-GEN-ppi-GEN
+datasets	opentargets||string
+reverse_edges	True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

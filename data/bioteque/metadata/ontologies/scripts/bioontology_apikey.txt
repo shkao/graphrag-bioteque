@@ -1,0 +1,1 @@
+Remove this text and paste your bioontology apikey here (to get it go to https://bioportal.bioontology.org/login --> 'Account Settings' via your username and there you will find the API Key )

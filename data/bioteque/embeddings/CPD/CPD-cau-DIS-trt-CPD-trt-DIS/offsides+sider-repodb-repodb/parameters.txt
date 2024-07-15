@@ -1,0 +1,10 @@
+metapath	CPD-cau-DIS-trt-CPD-trt-DIS
+datasets	offsides,sider||repodb||repodb
+reverse_edges	False||True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+pruning_cutoffs	0.025,3,250

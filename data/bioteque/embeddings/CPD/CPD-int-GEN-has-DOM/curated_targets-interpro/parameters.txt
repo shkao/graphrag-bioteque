@@ -1,0 +1,10 @@
+metapath	CPD-int-GEN-has-DOM
+datasets	drugbank_pd,pharmacogenomic_targets||interpro
+reverse_edges	False||False
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	CPD-int-GEN-has-DOM

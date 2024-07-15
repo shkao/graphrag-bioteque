@@ -1,0 +1,11 @@
+metapath	CLL-dwr-GEN-dwr-CLL-sns-CPD	CLL-upr-GEN-upr-CLL-sns-CPD
+datasets	ccle_rna||ccle_rna||ctrpv2_sens	ccle_rna||ccle_rna||ctrpv2_sens
+reverse_edges	False||True||False	False||True||False
+metapath_name	CLL-dwr+upr-GEN-dwr+upr-CLL-sns-CPD
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+pruning_cutoffs	0.025,3,250

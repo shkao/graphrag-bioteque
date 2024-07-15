@@ -1,0 +1,9 @@
+metapath	CLL-sns-CPD-sim-CPD
+datasets	gdsc1000_sens||fp2d_CC
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

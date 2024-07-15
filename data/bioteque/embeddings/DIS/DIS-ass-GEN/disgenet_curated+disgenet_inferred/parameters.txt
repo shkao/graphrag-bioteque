@@ -1,0 +1,9 @@
+metapath	DIS-ass-GEN
+datasets	disgenet_curated,disgenet_inferred
+reverse_edges	True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

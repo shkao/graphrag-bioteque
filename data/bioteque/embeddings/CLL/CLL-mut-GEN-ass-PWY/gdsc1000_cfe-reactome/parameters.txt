@@ -1,0 +1,9 @@
+metapath	CLL-mut-GEN-ass-PWY
+datasets	gdsc1000_cfe||reactome
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

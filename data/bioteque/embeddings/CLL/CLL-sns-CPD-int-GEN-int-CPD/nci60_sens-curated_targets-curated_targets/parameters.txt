@@ -1,0 +1,11 @@
+metapath	CLL-sns-CPD-int-GEN-int-CPD
+datasets	nci60_sens||drugbank_pd,pharmacogenomic_targets||drugbank_pd,pharmacogenomic_targets
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+reverse_edges	False||False||True
+mxm_order	2-3,1-23
+pruning_cutoffs	0.025,3,250

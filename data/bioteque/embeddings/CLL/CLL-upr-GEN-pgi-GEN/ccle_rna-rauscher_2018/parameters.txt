@@ -1,0 +1,10 @@
+metapath	CLL-upr-GEN-pgi-GEN
+datasets	ccle_rna||rauscher_2018
+reverse_edges	False||False
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	CLL-upr-GEN-pgi-GEN

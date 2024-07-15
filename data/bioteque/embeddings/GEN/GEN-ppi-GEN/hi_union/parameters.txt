@@ -1,0 +1,8 @@
+metapath	GEN-ppi-GEN
+datasets	hi_union
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

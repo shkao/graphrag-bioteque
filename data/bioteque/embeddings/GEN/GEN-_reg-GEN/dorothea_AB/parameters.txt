@@ -1,0 +1,11 @@
+metapath	GEN-reg-GEN
+datasets	dorothea_AB
+reverse_edges	False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+directed_megs	GEN-reg-GEN
+metapath_name   GEN-_reg-GEN

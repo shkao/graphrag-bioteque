@@ -1,0 +1,26 @@
+This script produce the following data sources:
+
+- 'drugbank_pd'
+- 'drugbank_pk'
+- 'drugbank_active'
+- 'drugbank'
+
+Drugbank data was downloaded from: https://go.drugbank.com/releases/latest#protein-identifiers
+
+Files
+
+   - Drug target (https://go.drugbank.com/releases/5-1-7/downloads/target-all-polypeptide-ids)
+   	- Rename all.csv --> drug_targets.csv
+   	- Rename pharmacological_active.csv --> drug_targets_pharmacological_active.csv
+   	
+   - Drug Enzyme (https://go.drugbank.com/releases/5-1-7/downloads/enzyme-all-polypeptide-ids)
+      	- Rename all.csv --> drug_enzymes.csv
+   	- Rename pharmacological_active.csv --> drug_enzymes_pharmacological_active.csv
+   	
+   - Drug Carrier (https://go.drugbank.com/releases/5-1-7/downloads/carrier-all-polypeptide-ids)
+      	- Rename all.csv --> drug_carriers.csv
+   	- Rename pharmacological_active.csv --> drug_carriers_pharmacological_active.csv
+   	
+   - Drug Transporter (https://go.drugbank.com/releases/5-1-7/downloads/transporter-all-polypeptide-ids)
+      	- Rename all.csv --> drug_transporters.csv
+   	- Rename pharmacological_active.csv --> drug_transporters_pharmacological_active.csv

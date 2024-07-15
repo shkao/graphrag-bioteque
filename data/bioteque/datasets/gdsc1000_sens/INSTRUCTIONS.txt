@@ -1,0 +1,11 @@
+Steps
+------
+1. First you need to download the PharmacoDB SQL dump database from from https://pharmacodb.pmgenomics.ca/download (--> https://zenodo.org/record/1143645#.YrRzXnhBxH4)
+
+2. Next you need to import the sql dump to your SQL. For example, in psql:
+	2.1. Connect to you psql and create a database called 'pharmacodb' --> 'CREATE DATABASE pharmacodb;'
+	2.2. Exit the psql and import the PharmacoDB SQL database by running (in the terminal) --> 'psql pharmacodb < pharmacodb-1.1.1.sql'
+
+3. Open the 'script.py' file and modify the 'psql_connect()' function with your host, user name and password
+
+4. Run the script.py

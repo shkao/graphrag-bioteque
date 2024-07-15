@@ -1,0 +1,8 @@
+GEN-ppi-GEN
+GEN-cov-GEN
+GEN-cex-GEN
+GEN-pgi-GEN
+GEN-ngi-GEN
+CPD-sim-CPD
+CPD-ddi-CPD
+GEN-cdp-GEN

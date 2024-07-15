@@ -1,0 +1,15 @@
+1. Drugbank
+--> Download the full drugbank database from: https://go.drugbank.com/releases/latest#full
+--> Unzip it in this directory. It should has the name: "full database.xml"
+
+2. KEGG
+--> Download the (htext) data from https://www.genome.jp/kegg-bin/get_htext?br08303.keg
+
+3. Drugcentral
+--> Download the drugcentral sql dump database from: https://drugcentral.org/ActiveDownload
+--> Next you need to import the sql dump to your SQL. For example, in psql:
+	  ---> Connect to you psql and create a database called 'drugcentral' --> 'CREATE DATABASE drugcentral;'
+	  ---> Exit the psql and import the drugcentral SQL database by running (in the terminal) --> 'psql drugcentral < drugcentral.sql'
+--> Read the table called "atc" from the drugcentral sql database and save it as a tab separated file in this folder with the name "drugcentral_atcs.tsv"
+
+Once all the files are in place (inside this folder) just run 'python3 script.py'

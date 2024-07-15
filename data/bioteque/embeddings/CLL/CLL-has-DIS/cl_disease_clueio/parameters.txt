@@ -1,0 +1,8 @@
+metapath	CLL-has-DIS
+datasets	cl_disease_clueio
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

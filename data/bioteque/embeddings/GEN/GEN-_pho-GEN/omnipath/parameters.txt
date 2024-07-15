@@ -1,0 +1,10 @@
+metapath	GEN-pho-GEN
+datasets	omnipath
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+directed_megs	GEN-pho-GEN
+metapath_name   GEN-_pho-GEN

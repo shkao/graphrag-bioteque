@@ -1,0 +1,9 @@
+metapath	CPD-trt-DIS-cau-DIS
+datasets	repodb||disease_cau_symptom_hetionet
+reverse_edges	False||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

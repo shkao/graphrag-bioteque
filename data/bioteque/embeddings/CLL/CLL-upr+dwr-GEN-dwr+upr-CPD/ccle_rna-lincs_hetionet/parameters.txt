@@ -1,0 +1,9 @@
+metapath	CLL-dwr-GEN-upr-CPD	CLL-upr-GEN-dwr-CPD
+datasets	ccle_rna||lincs_hetionet	ccle_rna||lincs_hetionet
+reverse_edges	False||True	False||True
+metapath_name	CLL-upr+dwr-GEN-dwr+upr-CPD
+nwalks	100
+length	100
+q	1
+p	1
+verbose	True

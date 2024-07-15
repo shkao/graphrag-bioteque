@@ -1,0 +1,8 @@
+metapath	DIS-cau-DIS
+datasets	disease_cau_symptom_hetionet
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

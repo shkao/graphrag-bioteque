@@ -1,0 +1,10 @@
+metapath	CPD-has-PHC-has-CPD-ups-GEN
+datasets	atc_drugs||atc_drugs||pharmacodb_associations
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+reverse_edges	False||True||True
+pruning_cutoffs	0.025,3,250

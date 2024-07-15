@@ -1,0 +1,3 @@
+wget https://cog.sanger.ac.uk/cmp/download/integrated_Sanger_Broad_essentiality_matrices_20200402.zip
+unzip integrated_Sanger_Broad_essentiality_matrices_20200402.zip
+rm integrated_Sanger_Broad_essentiality_matrices_20200402.zip

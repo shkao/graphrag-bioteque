@@ -1,0 +1,11 @@
+metapath	GEN-ppi-GEN-reg-GEN
+datasets	string||dorothea_AB
+reverse_edges	False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+directed_megs   GEN-reg-GEN
+metapath_name   GEN-ppi-GEN-reg_-GEN

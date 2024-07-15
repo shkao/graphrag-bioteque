@@ -1,0 +1,10 @@
+metapath	CPD-dws-GEN-dws-CPD	CPD-ups-GEN-ups-CPD
+datasets	pharmacodb_associations||pharmacodb_associations	pharmacodb_associations||pharmacodb_associations
+reverse_edges	True||False	True||False
+metapath_name	CPD-dws+ups-GEN-dws+ups-CPD
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

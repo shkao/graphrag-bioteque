@@ -1,0 +1,9 @@
+metapath	CLL-bfn-PGN-pdw-GEN
+datasets	achilles_HMZ||achilles_HMZ
+reverse_edges	True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

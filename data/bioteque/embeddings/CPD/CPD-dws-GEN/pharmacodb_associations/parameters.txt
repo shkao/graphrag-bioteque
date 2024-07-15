@@ -1,0 +1,9 @@
+metapath	CPD-dws-GEN
+datasets	pharmacodb_associations
+reverse_edges	True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

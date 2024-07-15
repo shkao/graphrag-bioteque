@@ -1,0 +1,10 @@
+metapath	CLL-dwr-GEN-dwr-CLL	CLL-upr-GEN-upr-CLL
+datasets	gdsc1000_mrna||gdsc1000_mrna	gdsc1000_mrna||gdsc1000_mrna
+reverse_edges	False||True	False||True
+metapath_name	CLL-dwr+upr-GEN-dwr+upr-CLL
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

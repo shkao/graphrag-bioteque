@@ -1,0 +1,8 @@
+metapath	GEN-has-MFN
+datasets	gomf_goa_curated
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

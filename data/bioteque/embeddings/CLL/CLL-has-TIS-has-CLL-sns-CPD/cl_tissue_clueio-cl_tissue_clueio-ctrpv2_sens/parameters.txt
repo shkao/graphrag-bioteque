@@ -1,0 +1,10 @@
+metapath	CLL-has-TIS-has-CLL-sns-CPD
+datasets	cl_tissue_clueio||cl_tissue_clueio||ctrpv2_sens
+reverse_edges	False||True||False
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+pruning_cutoffs	0.025,3,250

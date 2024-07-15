@@ -1,0 +1,10 @@
+metapath	CLL-dwr-GEN-dwr-CPD	CLL-upr-GEN-upr-CPD
+datasets	gdsc1000_mrna||lincs_hetionet	gdsc1000_mrna||lincs_hetionet
+reverse_edges	False||True	False||True
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
+metapath_name	CLL-dwr+upr-GEN-dwr+upr-CPD

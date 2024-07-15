@@ -1,0 +1,11 @@
+metapath	GEN-pdw-PGN-dwr-GEN-upr-GEN	GEN-pdw-PGN-upr-GEN-dwr-GEN
+datasets	lincs_sh_hetionet||lincs_sh_hetionet||dorothea_AB	lincs_sh_hetionet||lincs_sh_hetionet||dorothea_AB
+reverse_edges	True||False||True	True||False||True
+pruning_cutoffs	0.05,3,250
+pruning_method	union
+min_covered_nodes_in_netw	0.05
+nwalks	100
+length	100
+verbose	True
+metapath_name	GEN-pdw-PGN-dwr+upr-GEN-upr+dwr_-GEN
+tag_source	pg

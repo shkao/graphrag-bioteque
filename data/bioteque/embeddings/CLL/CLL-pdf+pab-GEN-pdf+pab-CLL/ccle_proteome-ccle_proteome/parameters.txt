@@ -1,0 +1,10 @@
+metapath	CLL-pdf-GEN-pdf-CLL	CLL-pab-GEN-pab-CLL
+datasets	ccle_proteome||ccle_proteome	ccle_proteome||ccle_proteome
+reverse_edges	False||True	False||True
+metapath_name	CLL-pdf+pab-GEN-pdf+pab-CLL
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True

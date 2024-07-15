@@ -1,0 +1,8 @@
+metapath	CPD-int-GEN
+datasets	drugbank_pd
+nwalks	100
+length	100
+q	1
+p	1
+force_directed	False
+verbose	True
