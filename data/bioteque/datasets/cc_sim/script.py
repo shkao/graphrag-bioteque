@@ -1,7 +1,10 @@
+import gzip
+import shutil
 import sys
 import os
 import numpy as np
-sys.path.insert(0, '../../code/kgraph/utils/')
+
+sys.path.insert(0, "../../code/kgraph/utils/")
 import mappers as mps
 
 #                      --------------------------------------------------------------
@@ -50,16 +53,17 @@ import mappers as mps
 
 #--------------------------------------------------------------------------------
 
-out_path = '../../graph/raw/'
-current_path = '/'.join(os.path.realpath(__file__).split('/')[:-1])
-source = current_path.split('/')[-1]
-opath = out_path+'/CPD-sim-CPD/%s.tsv'%source
+current_path = os.path.dirname(os.path.realpath(__file__))
+source = os.path.basename(current_path)
+output_directory = "../../graph/raw/CPD-sim-CPD"
+os.makedirs(output_directory, exist_ok=True)
+output_file_path = os.path.join(output_directory, f"{source}.tsv")
 
+with gzip.open("./edges.tsv.gz", "rb") as f_in, open(output_file_path, "wb") as f_out:
+    shutil.copyfileobj(f_in, f_out)
+    print(f"File copied successfully to {output_file_path}")
 
-if os.path.exists(opath):
-    if os.path.islink(opath):
-        os.unlink(opath)
-    else:
-        os.remove(opath)
-
-os.symlink(os.path.abspath('./edges.tsv'),os.path.abspath(opath))
+with open(output_file_path, "r") as f:
+    next(f)  # Skip the header
+    edges_count = sum(1 for _ in f)
+    print(f"{edges_count} edges have been parsed and saved.")
